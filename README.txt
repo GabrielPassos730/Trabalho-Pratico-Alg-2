@@ -1,4 +1,4 @@
-Nome dos integrantes:
+Integrantes:
 Gabriel Passos Santos,
 Danilo Augusto Araújo Camargos,
 Pedro Henrique Souza Mendes,
